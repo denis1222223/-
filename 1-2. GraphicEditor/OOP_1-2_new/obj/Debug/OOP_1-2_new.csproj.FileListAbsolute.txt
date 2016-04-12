@@ -1,0 +1,12 @@
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\bin\Debug\OOP_1-2_new.exe.config
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\bin\Debug\OOP_1-2_new.exe
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\bin\Debug\OOP_1-2_new.pdb
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1-2_new.csprojResolveAssemblyReference.cache
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1_2_new.Form1.resources
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1_2_new.Properties.Resources.resources
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1-2_new.csproj.GenerateResource.Cache
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1-2_new.exe
+c:\users\denis\onedrive\дакументы\visual studio 2013\Projects\OOP_1-2_new\OOP_1-2_new\obj\Debug\OOP_1-2_new.pdb
+D:\Лабы\ООТПиСП\1-2. Графический редактор\OOP_1-2_new\bin\Debug\OOP_1-2_new.exe.config
+D:\Лабы\ООТПиСП\1-2. Графический редактор\OOP_1-2_new\obj\Debug\OOP_1-2_new.exe
+D:\Лабы\ООТПиСП\1-2. Графический редактор\OOP_1-2_new\obj\Debug\OOP_1-2_new.pdb
